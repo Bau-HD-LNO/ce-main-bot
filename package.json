@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "canvas": "^2.9.3",
+    "common-tags": "^1.8.2",
+    "cron": "^2.1.0",
+    "discord-html-transcripts": "^2.6.0",
+    "discord-tictactoe": "^3.0.0",
+    "discord.js": "^13.1.0",
+    "enmap": "^5.9.0",
+    "express": "^4.18.1",
+    "instagram-api.js": "^1.1.0",
+    "moment": "^2.29.4",
+    "node-scp": "^0.0.18",
+    "paypal-rest-sdk": "^1.8.1",
+    "snakecord": "^1.0.9",
+    "ssh2": "^1.11.0",
+    "systeminformation": "^5.12.3"
+  },
+  "name": "chill-ecke-v2",
+  "version": "1.0.0",
+  "description": "a main discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": ".test"
+  },
+  "keywords": [
+    "best",
+    "bot"
+  ],
+  "author": "GamerDave08#0001",
+  "license": "MIT"
+}
