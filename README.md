@@ -109,7 +109,9 @@ node .
                          <li>
                              <hr>
                              Tausche als erstes /moduls/other/import.js durch den unten angezeigten script aus
-                             ```js
+                            
+                        </li>
+                          ```js
                              module.exports = client => {
     require("./autodelete")(client)
     require("./autoreact")(client)
@@ -132,7 +134,6 @@ node .
  * https://github.com/gamerdave08/ce-main-bot
  */ 
                              ```
-                        </li>
      
                      </h6>
                      
