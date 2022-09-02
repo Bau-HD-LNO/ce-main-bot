@@ -2,13 +2,14 @@
 Ein Discord Bot der Fast alles was man braucht kann
 
 <b>schritt 1(ändern der configurationen)</b>
+<p>Die Datei befindet sich unter /botconfig/config.json</p>
 ```json
 {
-    Bot Token -> "token":"",
-    Welcome Channel Id ->"welcchannel":"",
+    "token":"Discord Bot token",
+    "welcchannel":"Willkommens channel id",
     "owner":[""],
     "prefix":".",
-    Status Rollen system -> "Statusrollen":{
+    "Statusrollen":{
         "statustxt1":"dsc.gg/chilleckede",
         "statustxt2":"chillecke",
         "guildid":"993154733659390022",
