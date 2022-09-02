@@ -115,8 +115,7 @@ Ein Discord Bot der Fast alles was man braucht kann
     require("./guess_the_number")(client)
     require("../ticketsystem/main")(client)
     require("../spielersuche/index")(client)
-    require("./nodestats")(client)
-}
+    require("./nodestats")(client)}
     
 </details>
                                     
