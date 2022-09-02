@@ -57,6 +57,7 @@ Ein Discord Bot der Fast alles was man braucht kann
 <p style="text-align:center ;">Settings.json</p>
 
 ```json
+
 {
     "chilleckegid":"Deine Server ID",
     "ads_channel":"werbe channel id",
@@ -94,9 +95,6 @@ Ein Discord Bot der Fast alles was man braucht kann
 
 <b>Schritt 2 (Instalation von packages)</b>
 
-`npm i `
-
-`node .`
 <hr>
 <h2>Optionale Einstellungen</h2>
 <details>
