@@ -94,13 +94,9 @@ Ein Discord Bot der Fast alles was man braucht kann
 
 <b>Schritt 2 (Instalation von packages)</b>
 
-```console
-npm i 
-```
+`npm i `
 
-```console
-node .
-```
+`node .`
 <hr>
 <h2>Optionale Einstellungen</h2>
 <details>
