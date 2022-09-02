@@ -3,6 +3,8 @@ Ein Discord Bot der Fast alles was man braucht kann
 
 <b>schritt 1(ändern der configurationen)</b>
 <p>Die Datei befindet sich unter /botconfig/config.json</p>
+
+
 ```json
 {
     "token":"Discord Bot token",
