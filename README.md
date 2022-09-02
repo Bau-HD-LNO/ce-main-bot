@@ -116,7 +116,7 @@ Ein Discord Bot der Fast alles was man braucht kann
     require("../ticketsystem/main")(client)
     require("../spielersuche/index")(client)
     require("./nodestats")(client)}
-    
+    ```
     <h2>Und trage die server in /botconfig/config.json ein</h2>
     
     ```json 
