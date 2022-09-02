@@ -102,5 +102,5 @@ npm i
 node .
 ```
 
-<h5>Diese readme wurde wegen HyperGaming#4989 angelegt, da er es nicht selber schafft</h5>
+<h5>Diese readme wurde wegen <a src="https://discord.com/user/925802573506674729">HyperGaming</a> angelegt, da er es nicht selber schafft</h5>
 <h1>Viel Spaß mit dem bot</h1>
