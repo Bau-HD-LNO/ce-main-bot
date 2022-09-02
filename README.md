@@ -130,7 +130,8 @@ node .
  * Sag nicht das du den bot geschrieben hast 
  * @Github
  * https://github.com/gamerdave08/ce-main-bot
- */ ```
+ */ 
+                             ```
                         </li>
      
                      </h6>
