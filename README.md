@@ -111,7 +111,10 @@ node .
                              Tausche als erstes /moduls/other/import.js durch den unten angezeigten script aus
                             
                         </li>
-                          ```js
+                    
+     
+                     </h6>
+     ```js
                              module.exports = client => {
     require("./autodelete")(client)
     require("./autoreact")(client)
@@ -125,8 +128,6 @@ node .
     require("../spielersuche/index")(client)
     require("./nodestats")(client)
 } ```
-     
-                     </h6>
                      
                    </details> 
 <hr>
