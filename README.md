@@ -105,18 +105,7 @@ Ein Discord Bot der Fast alles was man braucht kann
     
     
     module.exports = client => {
-    require("./autodelete")(client)
-    require("./autoreact")(client)
-    require("./feedback_system")(client)
-    require("./selfrolles")(client)
-    require("./status_rollen")(client)
-    require("./ticket_updatemessage")(client)
-    require("./welcome")(client)
-    require("./guess_the_number")(client)
-    require("../ticketsystem/main")(client)
-    require("../spielersuche/index")(client)
-    require("./nodestats")(client)}
-    ```
+    `require("./autodelete")(client);require("./autoreact")(client);require("./feedback_system")(client);require("./selfrolles")(client);require("./status_rollen")(client);require("./ticket_updatemessage")(client);require("./welcome")(client);require("./guess_the_number")(client);require("../ticketsystem/main")(client);require("../spielersuche/index")(client);require("./nodestats")(client);}`
     <h2>Und trage die server in /botconfig/config.json ein</h2>
     
     ```json 
