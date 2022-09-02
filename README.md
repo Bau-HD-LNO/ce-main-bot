@@ -105,16 +105,7 @@ node .
 <h2>Optionale Einstellungen</h2>
 <details> 
                      <summary>Node Stats System</summary>
-                     <h6>
-                         <li>
-                             <hr>
-                             Tausche als erstes /moduls/other/import.js durch den unten angezeigten script aus
-                            
-                        </li>
-                    
-     
-                     </h6>
-     ```js
+                         ```js
                              module.exports = client => {
     require("./autodelete")(client)
     require("./autoreact")(client)
@@ -128,23 +119,10 @@ node .
     require("../spielersuche/index")(client)
     require("./nodestats")(client)
 } ```
+
                      
                    </details> 
-                                    </h6>
-     ```js
-                             module.exports = client => {
-    require("./autodelete")(client)
-    require("./autoreact")(client)
-    require("./feedback_system")(client)
-    require("./selfrolles")(client)
-    require("./status_rollen")(client)
-    require("./ticket_updatemessage")(client)
-    require("./welcome")(client)
-    require("./guess_the_number")(client)
-    require("../ticketsystem/main")(client)
-    require("../spielersuche/index")(client)
-    require("./nodestats")(client)
-} ```
+                                    
 <hr>
 <h5>Diese readme wurde wegen <a href="https://discord.com/users/925802573506674729">HyperGaming</a> angelegt, da er es nicht selber schafft</h5>
 <h1>Viel Spaß mit dem bot</h1>
