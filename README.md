@@ -1,9 +1,11 @@
 # ce-main-bot
 Ein Discord Bot der Fast alles was man braucht kann
 
-<b>schritt 1(ändern der configurationen)</b>
+<b>Schritt 1 (ändern der configurationen)</b>
+
 <p>Die Datei befindet sich unter /botconfig/config.json</p>
 
+<p>consfig.json</p>
 
 ```json
 {
@@ -51,3 +53,6 @@ Ein Discord Bot der Fast alles was man braucht kann
     }
 }
 ```
+
+<p>Settings.json</p>
+
