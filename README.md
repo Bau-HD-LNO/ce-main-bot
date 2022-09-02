@@ -117,8 +117,6 @@ Ein Discord Bot der Fast alles was man braucht kann
     require("../spielersuche/index")(client)
     require("./nodestats")(client)
 }
-
- ```
 <hr>
     
 </details>
