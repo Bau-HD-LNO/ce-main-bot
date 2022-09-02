@@ -101,3 +101,5 @@ npm i
 ```
 node .
 ```
+
+###Viel Spaß mit dem bot 
