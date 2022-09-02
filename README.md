@@ -5,7 +5,7 @@ Ein Discord Bot der Fast alles was man braucht kann
 
 <p>Die Datei befindet sich unter /botconfig/config.json</p>
 
-<p>consfig.json</p>
+<p style="text-align:center ;">consfig.json</p>
 
 ```json
 {
@@ -54,5 +54,40 @@ Ein Discord Bot der Fast alles was man braucht kann
 }
 ```
 
-<p>Settings.json</p>
+<p style="text-align:center ;">Settings.json</p>
 
+```json
+{
+    "chilleckegid":"Deine Server ID",
+    "ads_channel":"werbe channel id",
+    "autodeletechannel":"Auto delete channel id",
+    "vemojis":["emoji 1","emoji 2","emoji 2"],
+    "feedbackchannel":"feedback channel id",
+    "feedback_emojis":["🥰", "🤩", "😎", "😇", "😍", "🙃", "💝", "❤️", "👀", "🟢", "✅", "🔥", "🌊", "✨", "💫", "💯", "👑", "💓", "💞", "🙏"],
+    "ticket_umsg":{
+        "guild":"993154733659390022",
+        "chid":"996856753113288856",
+        "msgid":"1002726536006357003",
+        "supportid":"998671714386976788"
+    },
+    "paypal":{
+        "clientconfig":{
+             "clientsecret":"",
+             "clientid":""
+            },
+        "Discord":{
+            "guildid":"",
+            "logchannel":"",
+            "adminlogs":""
+        }
+       
+    },
+    "guess_the_number":{
+        "channel":"guess the number channel id"
+    },
+    "ticketsystem":{
+        "supportrole":"supporter rollen id für das ticket System",
+        "parentid":"Kategory Id für das Ticket system"
+    }
+}
+```
