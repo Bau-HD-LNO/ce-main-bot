@@ -107,7 +107,7 @@ node .
   <summary>Node Stats</summary>
     * <h2>Ersetze die js Datei in /moduls/other/import.js durch </h2>
     
-    ```js
+    ```
     module.exports = client => {
     require("./autodelete")(client)
     require("./autoreact")(client)
