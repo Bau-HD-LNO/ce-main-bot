@@ -91,3 +91,13 @@ Ein Discord Bot der Fast alles was man braucht kann
     }
 }
 ```
+
+<b>Schritt 2 (Instalation von packages)</b>
+
+```
+npm i 
+```
+
+```
+node .
+```
