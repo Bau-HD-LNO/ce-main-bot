@@ -103,6 +103,20 @@ node .
 ```
 <hr>
 <h2>Optionale Einstellungen</h2>
+<details> 
+                     <summary>Node Stats System</summary>
+                     <h6>
+                         <li>
+                             <hr>
+                             Tausche als erstes .. durch den unten angezeigten script aus
+                             ```js
+                             
+                             ```
+                        </li>
+     
+                     </h6>
+                     
+                   </details> 
 <hr>
 <h5>Diese readme wurde wegen <a href="https://discord.com/users/925802573506674729">HyperGaming</a> angelegt, da er es nicht selber schafft</h5>
 <h1>Viel Spaß mit dem bot</h1>
