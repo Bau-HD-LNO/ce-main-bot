@@ -101,7 +101,7 @@ Ein Discord Bot der Fast alles was man braucht kann
 <h2>Optionale Einstellungen</h2>
 <details>
   <summary>Node Stats</summary>
-    * <h2>Ersetze die js Datei in /moduls/other/import.js durch </h2>
+    <h2>Ersetze die js Datei in /moduls/other/import.js durch </h2>
     
     
     module.exports = client => {
@@ -116,6 +116,23 @@ Ein Discord Bot der Fast alles was man braucht kann
     require("../ticketsystem/main")(client)
     require("../spielersuche/index")(client)
     require("./nodestats")(client)}
+    
+    <h2>Und trage die server in /botconfig/config.json ein</h2>
+    
+    ```json 
+     "servers": {
+    "node1":"ipadresse",
+    "node2":"ipadresse"
+    },
+    "passwords": {
+    "node1":"serverpasswort",
+    "node2":"serverpasswort"
+    },
+    "usernames": {
+    "node1":"username"
+    "node2":"username"
+    }
+    ```
     
 </details>
                                     
