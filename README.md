@@ -101,9 +101,9 @@ Ein Discord Bot der Fast alles was man braucht kann
 <h2>Optionale Einstellungen</h2>
 <details>
   <summary>Node Stats</summary>
-    <h2>Ersetze die js Datei in /moduls/other/import.js durch </h2>
+    *Ersetze die js Datei in /moduls/other/import.js durch
     
-    <h2>Und trage die server in /botconfig/config.json ein</h2>
+    * Und trage die server in /botconfig/config.json ein
     
     ```json 
      "servers": {
