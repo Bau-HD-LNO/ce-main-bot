@@ -106,6 +106,7 @@ node .
 <details>
   <summary>Node Stats</summary>
     * <h2>Ersetze die js Datei in /moduls/other/import.js durch </h2>
+    
     ```js
     module.exports = client => {
     require("./autodelete")(client)
@@ -129,6 +130,7 @@ node .
  * https://github.com/gamerdave08/ce-main-bot
  */
  ```
+    
 </details>
                                     
 <hr>
