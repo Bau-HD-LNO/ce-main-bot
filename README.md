@@ -103,25 +103,16 @@ node .
 ```
 <hr>
 <h2>Optionale Einstellungen</h2>
-<details> 
-                     <summary>Node Stats System</summary>
-                         ```js
-                             module.exports = client => {
-    require("./autodelete")(client)
-    require("./autoreact")(client)
-    require("./feedback_system")(client)
-    require("./selfrolles")(client)
-    require("./status_rollen")(client)
-    require("./ticket_updatemessage")(client)
-    require("./welcome")(client)
-    require("./guess_the_number")(client)
-    require("../ticketsystem/main")(client)
-    require("../spielersuche/index")(client)
-    require("./nodestats")(client)
-} ```
+<details>
+  <summary>Click to expand</summary>
 
-                     
-                   </details> 
+  * [nodejs](https://nodejs.org) version 16.6 or higher, I recommend the latest STABLE version
+  * [python](https://python.org) version 3.8 or higher, to install the database `enmap` (better-sqlite3)
+  * A VPS would be advised, so you don't need to keep your PC/laptop/RasPi 24/7 online! [Click here for a debian setup](https://github.com/Tomato6966/Debian-Cheat-Sheet-Setup/wiki/).
+  * Check out my recommended Host: [BERO-HOST](https://bero.milrato.dev) and use code `milrato` for cheap OP VPS (kvm)
+  * [Click here for a Direct Order Link](https://bero-host.de/server/prepaid-kvm-rootserver-paket-mieten)
+
+</details>
                                     
 <hr>
 <h5>Diese readme wurde wegen <a href="https://discord.com/users/925802573506674729">HyperGaming</a> angelegt, da er es nicht selber schafft</h5>
