@@ -94,11 +94,11 @@ Ein Discord Bot der Fast alles was man braucht kann
 
 <b>Schritt 2 (Instalation von packages)</b>
 
-```
+```console
 npm i 
 ```
 
-```
+```console
 node .
 ```
 <hr>
@@ -130,6 +130,21 @@ node .
 } ```
                      
                    </details> 
+                                    </h6>
+     ```js
+                             module.exports = client => {
+    require("./autodelete")(client)
+    require("./autoreact")(client)
+    require("./feedback_system")(client)
+    require("./selfrolles")(client)
+    require("./status_rollen")(client)
+    require("./ticket_updatemessage")(client)
+    require("./welcome")(client)
+    require("./guess_the_number")(client)
+    require("../ticketsystem/main")(client)
+    require("../spielersuche/index")(client)
+    require("./nodestats")(client)
+} ```
 <hr>
 <h5>Diese readme wurde wegen <a href="https://discord.com/users/925802573506674729">HyperGaming</a> angelegt, da er es nicht selber schafft</h5>
 <h1>Viel Spaß mit dem bot</h1>
