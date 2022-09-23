@@ -1,6 +1,8 @@
 # ce-main-bot
 Ein Discord Bot der Fast alles was man braucht kann
 
+Bei fragen bitte in [issues](https://github.com/gamerdave08/ce-main-bot/issues) schauen
+
 <b>Schritt 1 (ändern der configurationen)</b>
 
 <p>Die Datei befindet sich unter /botconfig/config.json</p>
